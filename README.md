@@ -1,6 +1,6 @@
 # Loimu: Hack & Hackers slides
 
-## Using (https://github.com/markdalgleish/bespoke.js)[bespoke.js]
+## Using [bespoke.js](https://github.com/markdalgleish/bespoke.js)
 
 ## Getting started
 ```bash
